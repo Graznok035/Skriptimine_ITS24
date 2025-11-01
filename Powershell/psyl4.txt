@@ -1,0 +1,10 @@
+
+    Directory: C:\Windows\Temp
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          07.10.2025    22:27       92727144 wct303C.tmp
+-a---          07.10.2025    22:21       92473208 wct7434.tmp
+-a---          08.10.2025    20:17       92395880 wct59B.tmp
+
+Martin Tursk II kursus, add-content
